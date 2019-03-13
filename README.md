@@ -34,3 +34,5 @@ ie: java -jar C:\tmp\UIM\gmail2event-0.0.1-SNAPSHOT-jar-with-dependencies.jar -d
 So, you need java on the box (tested with 1.8) and you need a UIM Robot on the box where you run this.
  
 Default imap port is used (993), Tested against gmail.
+
+Disclaimer: Not my work.
