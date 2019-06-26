@@ -1,9 +1,7 @@
 # CA-UIM---Mail-Eater
 Turns email into UIM events
 
-The file is too big to upload to GitHub, available via link below:
-
-https://drive.google.com/file/d/175vKsMe_MFCB538jqR2RDPuyjXNohr-a/view?usp=sharing
+See release tab for the Jar file.
 
 The syntax is:
 # gmail2event
